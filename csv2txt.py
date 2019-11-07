@@ -14,7 +14,7 @@ file_name='tree1000000.csv'
 
 i=[]  #the i column
 j=[]  #the j column
-
+all_vertices = []
 
 ##open the CSV file and store them ###
 with open(file_name) as csvDataFile:
